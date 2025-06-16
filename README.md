@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Siddik232&label=Profile%20views&color=0e75b6&style=flat" alt="Siddik232" /> </p>
 
-- 🔭 I’m currently working on *Gym website*
+- 🔭 I’m currently working on *Devops projects*
 
 - 🌱 I’m currently learning *python,html,css,javascript*
 
